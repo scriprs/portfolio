@@ -53,8 +53,8 @@ Information Buttons Settings
     border-radius: 10px;
     text-align: center;
     font-size: 45px;
-    line-height: 65px; /* Adjust line height to center vertically */
-    padding: 0; /* Remove padding */
+    line-height: 65px;
+    padding: 0;
     transition: background-color 0.25s;
 }
 
